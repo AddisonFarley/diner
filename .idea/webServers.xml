@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a7f27b16-b49e-48c6-9630-d07be7a8d000" name="GreenRiverDev" url="http://addisonfarley.greenriverdev.com">
+        <fileTransfer rootFolder="/home/addison1/public_html" accessType="SFTP" host="addisonfarley.greenriverdev.com" port="18765" sshConfigId="f2dfa4fb-86f9-485b-ac28-aac682385794" sshConfig="addison1@addisonfarley.greenriverdev.com:18765 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
