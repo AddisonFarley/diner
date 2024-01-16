@@ -1,0 +1,13 @@
+{
+  "name": "sdev328/diner",
+  "description": "My MVC Diner App",
+  "authors": [
+    {
+      "name": "Addison Farley",
+      "email": "farley.addison@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
