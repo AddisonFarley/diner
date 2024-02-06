@@ -1,0 +1,78 @@
+[16-Jan-2024 17:51:57 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/addison1/public_html/sdev328/diner/vendor/bcosca/fatfree-core/base.php on line 918
+[16-Jan-2024 17:52:19 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/addison1/public_html/sdev328/diner/vendor/bcosca/fatfree-core/base.php on line 918
+[16-Jan-2024 17:52:44 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/addison1/public_html/sdev328/diner/vendor/bcosca/fatfree-core/base.php on line 918
+[16-Jan-2024 17:52:56 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/addison1/public_html/sdev328/diner/vendor/bcosca/fatfree-core/base.php on line 918
+[16-Jan-2024 17:54:45 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/addison1/public_html/sdev328/diner/vendor/bcosca/fatfree-core/base.php on line 918
+[16-Jan-2024 17:55:30 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/addison1/public_html/sdev328/diner/vendor/bcosca/fatfree-core/base.php on line 918
+[16-Jan-2024 17:57:15 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/addison1/public_html/sdev328/diner/vendor/bcosca/fatfree-core/base.php on line 918
+[23-Jan-2024 18:18:09 UTC] HTTP 404 (GET /index.php)
+[23-Jan-2024 18:18:09 UTC] [sdev328/diner/index.php:43] Base->run()
+[03-Feb-2024 20:22:06 UTC] HTTP 404 (GET /index.php)
+[03-Feb-2024 20:22:06 UTC] [sdev328/diner/index.php:64] Base->run()
+[03-Feb-2024 20:22:34 UTC] Undefined variable $f3
+[03-Feb-2024 20:22:34 UTC] [sdev328/diner/index.php:44] 
+[03-Feb-2024 20:22:34 UTC] [sdev328/diner/index.php:44] Base->{closure}()
+[03-Feb-2024 20:22:34 UTC] [sdev328/diner/index.php:64] Base->run()
+[03-Feb-2024 20:22:44 UTC] Undefined variable $f3
+[03-Feb-2024 20:22:44 UTC] [sdev328/diner/index.php:44] 
+[03-Feb-2024 20:22:44 UTC] [sdev328/diner/index.php:44] Base->{closure}()
+[03-Feb-2024 20:22:44 UTC] [sdev328/diner/index.php:64] Base->run()
+[06-Feb-2024 17:59:49 UTC] HTTP 404 (GET /images/diner.jpg)
+[06-Feb-2024 17:59:49 UTC] [sdev328/diner/index.php:104] Base->run()
+[06-Feb-2024 17:59:52 UTC] Undefined variable $conds
+[06-Feb-2024 17:59:52 UTC] [sdev328/diner/tmp/1vlatg0xk7kzs.4wh708nuy7wa.php:39] 
+[06-Feb-2024 17:59:52 UTC] [sdev328/diner/tmp/1vlatg0xk7kzs.4wh708nuy7wa.php:39] Base->{closure}()
+[06-Feb-2024 17:59:52 UTC] [sdev328/diner/index.php:59] Preview->render()
+[06-Feb-2024 17:59:52 UTC] [sdev328/diner/index.php:104] Base->run()
+[06-Feb-2024 17:59:52 UTC] HTTP 404 (GET /styles/styles.css)
+[06-Feb-2024 17:59:52 UTC] [sdev328/diner/index.php:104] Base->run()
+[06-Feb-2024 18:01:40 UTC] Undefined variable $conds
+[06-Feb-2024 18:01:40 UTC] [sdev328/diner/tmp/1vlatg0xk7kzs.4wh708nuy7wa.php:39] 
+[06-Feb-2024 18:01:40 UTC] [sdev328/diner/tmp/1vlatg0xk7kzs.4wh708nuy7wa.php:39] Base->{closure}()
+[06-Feb-2024 18:01:40 UTC] [sdev328/diner/index.php:59] Preview->render()
+[06-Feb-2024 18:01:40 UTC] [sdev328/diner/index.php:104] Base->run()
+[06-Feb-2024 18:01:40 UTC] HTTP 404 (GET /styles/styles.css)
+[06-Feb-2024 18:01:40 UTC] [sdev328/diner/index.php:104] Base->run()
+[06-Feb-2024 18:01:43 UTC] Undefined variable $conds
+[06-Feb-2024 18:01:43 UTC] [sdev328/diner/tmp/1vlatg0xk7kzs.4wh708nuy7wa.php:39] 
+[06-Feb-2024 18:01:43 UTC] [sdev328/diner/tmp/1vlatg0xk7kzs.4wh708nuy7wa.php:39] Base->{closure}()
+[06-Feb-2024 18:01:43 UTC] [sdev328/diner/index.php:59] Preview->render()
+[06-Feb-2024 18:01:43 UTC] [sdev328/diner/index.php:104] Base->run()
+[06-Feb-2024 18:01:44 UTC] HTTP 404 (GET /styles/styles.css)
+[06-Feb-2024 18:01:44 UTC] [sdev328/diner/index.php:104] Base->run()
+[06-Feb-2024 18:03:15 UTC] Undefined variable $condiments
+[06-Feb-2024 18:03:15 UTC] [sdev328/diner/tmp/1vlatg0xk7kzs.4wh708nuy7wa.php:39] 
+[06-Feb-2024 18:03:15 UTC] [sdev328/diner/tmp/1vlatg0xk7kzs.4wh708nuy7wa.php:39] Base->{closure}()
+[06-Feb-2024 18:03:15 UTC] [sdev328/diner/index.php:59] Preview->render()
+[06-Feb-2024 18:03:15 UTC] [sdev328/diner/index.php:104] Base->run()
+[06-Feb-2024 18:03:32 UTC] HTTP 404 (GET /images/diner.jpg)
+[06-Feb-2024 18:03:32 UTC] [sdev328/diner/index.php:104] Base->run()
+[06-Feb-2024 18:03:33 UTC] Undefined variable $condiments
+[06-Feb-2024 18:03:33 UTC] [sdev328/diner/tmp/1vlatg0xk7kzs.4wh708nuy7wa.php:39] 
+[06-Feb-2024 18:03:33 UTC] [sdev328/diner/tmp/1vlatg0xk7kzs.4wh708nuy7wa.php:39] Base->{closure}()
+[06-Feb-2024 18:03:33 UTC] [sdev328/diner/index.php:59] Preview->render()
+[06-Feb-2024 18:03:33 UTC] [sdev328/diner/index.php:104] Base->run()
+[06-Feb-2024 18:19:17 UTC] Undefined variable $condiments
+[06-Feb-2024 18:19:17 UTC] [sdev328/diner/tmp/1vlatg0xk7kzs.4wh708nuy7wa.php:23] 
+[06-Feb-2024 18:19:17 UTC] [sdev328/diner/tmp/1vlatg0xk7kzs.4wh708nuy7wa.php:23] Base->{closure}()
+[06-Feb-2024 18:19:17 UTC] [sdev328/diner/index.php:59] Preview->render()
+[06-Feb-2024 18:19:17 UTC] [sdev328/diner/index.php:104] Base->run()
+[06-Feb-2024 18:19:17 UTC] HTTP 404 (GET /styles/styles.css)
+[06-Feb-2024 18:19:17 UTC] [sdev328/diner/index.php:104] Base->run()
+[06-Feb-2024 18:20:11 UTC] Undefined variable $condiments
+[06-Feb-2024 18:20:11 UTC] [sdev328/diner/tmp/1vlatg0xk7kzs.4wh708nuy7wa.php:23] 
+[06-Feb-2024 18:20:11 UTC] [sdev328/diner/tmp/1vlatg0xk7kzs.4wh708nuy7wa.php:23] Base->{closure}()
+[06-Feb-2024 18:20:11 UTC] [sdev328/diner/index.php:59] Preview->render()
+[06-Feb-2024 18:20:11 UTC] [sdev328/diner/index.php:104] Base->run()
+[06-Feb-2024 18:20:11 UTC] HTTP 404 (GET /styles/styles.css)
+[06-Feb-2024 18:20:11 UTC] [sdev328/diner/index.php:104] Base->run()
+[06-Feb-2024 18:20:20 UTC] HTTP 404 (GET /index.php)
+[06-Feb-2024 18:20:20 UTC] [sdev328/diner/index.php:104] Base->run()
+[06-Feb-2024 18:23:17 UTC] HTTP 404 (GET /styles/styles.css)
+[06-Feb-2024 18:23:17 UTC] [sdev328/diner/index.php:106] Base->run()
+[06-Feb-2024 18:23:21 UTC] HTTP 404 (GET /images/diner.jpg)
+[06-Feb-2024 18:23:21 UTC] [sdev328/diner/index.php:106] Base->run()
+[06-Feb-2024 18:23:59 UTC] HTTP 404 (GET /styles/styles.css)
+[06-Feb-2024 18:23:59 UTC] [sdev328/diner/index.php:106] Base->run()
+[06-Feb-2024 18:24:08 UTC] HTTP 404 (GET /styles/styles.css)
+[06-Feb-2024 18:24:08 UTC] [sdev328/diner/index.php:106] Base->run()
